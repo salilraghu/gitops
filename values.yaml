@@ -1,5 +1,5 @@
 python-rest-app:
-  replicaCount: 2
+  replicaCount: 1
   dbReplicaCount : 1
 
   image:
