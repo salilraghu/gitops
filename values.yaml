@@ -27,5 +27,5 @@ python-rest-app:
     - key: "app"
       value: "helm"
       effect: "NoSchedule"
-      condition: "Equals"
+      operator: "Equals"
 
