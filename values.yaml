@@ -15,7 +15,7 @@ python-rest-app:
     appType: NodePort
     port: 80
     appPort: 5000
-    dbPort: 6380
+    dbPort: 6379
     nodeport: 32001
 
   resources: 
